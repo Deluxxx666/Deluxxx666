@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deluxxx666 aka Jason Mercure
-- 👀 I created this github for the facebook group Metaworld Society
+- 👀 I started this github for the facebook group Metaworld Society
 - 🌱 I’m currently learning how to design, animate, and write blockchain code on different platforms.
 - 💞️ I’m looking to collaborate on all aspects as this github is for the whole group of people a part of metaworld society.
 - 📫 How to reach me, facebook 
